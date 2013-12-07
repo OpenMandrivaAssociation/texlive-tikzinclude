@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-tikzinclude
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	Import TikZ images from colletions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude
