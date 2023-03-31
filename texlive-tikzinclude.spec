@@ -1,6 +1,6 @@
 Name:		texlive-tikzinclude
 Version:	28715
-Release:	1
+Release:	2
 Summary:	Import TikZ images from colletions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude
