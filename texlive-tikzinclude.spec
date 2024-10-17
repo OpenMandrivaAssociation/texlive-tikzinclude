@@ -3,7 +3,7 @@ Version:	28715
 Release:	2
 Summary:	Import TikZ images from colletions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzinclude.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzinclude.doc.r%{version}.tar.xz
